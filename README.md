@@ -66,5 +66,5 @@
 # Person's Table 
 ![image](https://user-images.githubusercontent.com/20079511/119573053-b16be080-bd81-11eb-92ab-eee96a914f34.png)
 ![image](https://user-images.githubusercontent.com/20079511/119572890-75388000-bd81-11eb-9693-a895adb3eca8.png)
-
-
+#
+#More queries are found on the code section feel free to download and try!!
